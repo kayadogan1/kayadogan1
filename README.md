@@ -47,11 +47,11 @@ I enjoy designing systems where **performance, data consistency, and clean archi
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_HERE&show_icons=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kayadogan1&show_icons=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_HERE&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kayadogan1&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME_HERE)
+![GitHub Streak](https://streak-stats.demolab.com?user=kayadogan1)
 
 > Language distribution is calculated automatically based on my public repositories.
 
