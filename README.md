@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi, I'm Doğan Kaya 👋
 
-<!--
-**kayadogan1/kayadogan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Software Developer with hands-on experience in **Java & Spring Boot**,  
+building **microservice-based systems**, real-time data pipelines, and scalable backend architectures.
 
-Here are some ideas to get you started:
+I enjoy designing systems where **performance, data consistency, and clean architecture** matter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Technical Focus
+
+- Backend Development (Java, Spring Boot, .NET Core)
+- Microservices & Distributed Systems
+- Event-driven architectures (Kafka)
+- Caching & performance optimization (Redis)
+- Containerization & deployment (Docker)
+- RESTful API design & documentation
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- **Java**, Spring Boot, Hibernate
+- **.NET Core**, Entity Framework
+- RESTful APIs, JWT Authentication
+
+### Frontend
+- **React**
+- JavaScript (ES6+), HTML, CSS
+
+### Data & Infrastructure
+- PostgreSQL
+- Redis
+- Apache Kafka
+- Elasticsearch
+- Docker
+- Supabase
+
+### Tooling
+- Git & GitHub
+- Postman
+- Swagger (OpenAPI)
+- Kibana
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_HERE&show_icons=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_HERE&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME_HERE)
+
+> Language distribution is calculated automatically based on my public repositories.
+
+---
+
+
+
+##  Contact & Profiles
+
+- **GitHub:** https://github.com/kayadogan1
+- **LinkedIn:** https://www.linkedin.com/in/dogann-kaya
+- **Email:** dogann2536@gmail.com
+
+---
+
+> Currently focusing on building production-grade backend systems and improving frontend skills with React.
